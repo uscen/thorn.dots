@@ -3,16 +3,6 @@
     <img height="150" src=".github/images/thorn_logo.png" />
 </h3>
 
-<p align="center">
-    <a href="https://github.com/jpwol/thorn.nvim/stargazers"><img src="https://img.shields.io/github/stars/jpwol/thorn.nvim?style=for-the-badge&color=FFD7AA"></a>
-    <a href="https://github.com/jpwol/thorn.nvim/issues"><img src="https://img.shields.io/github/last-commit/jpwol/thorn.nvim?style=for-the-badge&color=88B497"></a>
-    <a href="https://github.com/jpwol/thorn.nvim/issues"><img src="https://img.shields.io/github/issues/jpwol/thorn.nvim?style=for-the-badge&color=F2A597"></a>
-</p>
-
-<div align="center">
-    <img src=".github/images/thorn_previews.png" />
-</div>
-
 Thorn is a rich, green theme made to solve two issues with many themes:
 
 ##### Too many highlights
@@ -33,17 +23,6 @@ A lot of dark themes are only dark in the sense of their backgrounds. For those 
 - [Configuration](#configuration)
 
 ---
-
-#### Previews
-
-<details>
-    <summary> Forest </summary>
-    <img src=".github/images/thorn_forest.png" />
-</details>
-<details>
-    <summary> Field </summary>
-    <img src=".github/images/thorn_field.png" />
-</details>
 
 ## Features
 
