@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-    thorn is <a href="https://github.com/jpwol/thorn.nvim"><strong>[nvim]</strong></a> theme created by - <strong><a href="https://github.com/jpwol">jpwol</a></strong>.
+    thorn is <a href="https://github.com/jpwol/thorn.nvim"><strong>[nvim]</strong></a> theme created by - <strong><a href="https://github.com/jpwol">jpwol</a></strong>.<br />
     <q> this repo just aimed to add more apps theme up of it my app  that i use daily </q>
 
 </p>
